@@ -4,4 +4,4 @@ This is an acronym commonly used to refer to the prolific group in charge of the
 
 when you beeb three times, a persmert will be blessed.
 
-however if you beebtwo  times, kumamon will activate his kumashoe power to step on kokapi and beigesan.
+however if you beeb  two  times, kumamon will activate his kumashoe power to step on kokapi and beigesan.
