@@ -1,3 +1,3 @@
-what is the imposter?
+what is the meaning of SBAHFKKK?
 
-the imposter is an amongus sussy baka
+This is an acronym commonly used to refer to the prolific group in charge of the invasion of zimbabwe, the names stands for SUSSY BAKA AMONGUS HOMO FLOW KAKANGKUH
