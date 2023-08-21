@@ -4,3 +4,5 @@ If the taxpayer is appealing for instalment plans to pay for his income tax, the
 If the taxpaer is under financial difficulties, we can give 10 months of instalment.
 
 What constitutes financial difficulties? If the taxpayer is unemployed, has heavy medical bills, or is bankrupt.
+
+IF the taxpayer is unable to commit to the instalment plans granted as per SOP, please seek approval from your supervisor to grant a longer plan.
