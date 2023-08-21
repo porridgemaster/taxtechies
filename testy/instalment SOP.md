@@ -6,3 +6,5 @@ If the taxpaer is under financial difficulties, we can give 10 months of instalm
 What constitutes financial difficulties? If the taxpayer is unemployed, has heavy medical bills, or is bankrupt.
 
 IF the taxpayer is unable to commit to the instalment plans granted as per SOP, please seek approval from your supervisor to grant a longer plan.
+
+There are Certain scenarios dont require supervisor approval but is highly dependent on the taxpayer circumstances. such as his compliance rating, his income, his expenses, etc
