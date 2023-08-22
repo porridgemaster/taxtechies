@@ -9,4 +9,4 @@ The taxpayer had lost his home
 
 
 2.3: Other special circumstances where penalty waiver can be granted where the taxpayer had used up his 3 chances in a year, or does not meet the criteria stated in 2.2:
-IF taxpayer is over 2 meters in height
+IF taxpayer is over the age of 90 years old.
