@@ -1,3 +1,6 @@
+These are our internal guidelines and should not be shared with taxpayers. However, We may inform them on the outcome of their appeal.
+
+
 1.1: IF the taxpayer is did not make payment of the tax by the due date in the notice. A late payment penalty of 30% will be imposed on the next working day. 
 1.2: For every completed week that the penalty is not paid, the penalty amount wil triple.
 
