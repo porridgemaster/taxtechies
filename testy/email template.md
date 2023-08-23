@@ -1,4 +1,4 @@
-These are email templates that can be used if IRAS officers need to draft a reply email to a taxpayer.
+These are email templates that can be used if tax authority officers need to draft a reply email to a taxpayer.
 
 Scenario on instalment plan requests:
 
@@ -14,5 +14,5 @@ Scenario on late payment penalty Waiver:
 1) if the late payment penalty waiver is approved:
 We wish to inform that the late payment penalty has been waived. Please note that you will have 2 more chances for a penalty waiver. please go online to view the amount of penalty waived.
 
-2)if the late payment penalty is rejected:
+2) if the late payment penalty is rejected:
 We regret to inform that the late payment penalty waiver is not approved. Please make full payment of the penalty amount by (next week from today). Otherwise the penalty amount will triple for every week that the penalty is unpaid. 
